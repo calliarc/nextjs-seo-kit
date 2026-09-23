@@ -2,9 +2,10 @@
 
 Correct canonicals, sitemaps, redirects and www/trailing-slash handling for Next.js.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![CI](https://github.com/calliarc/nextjs-seo-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/calliarc/nextjs-seo-kit/actions/workflows/ci.yml)
-![Version: 0.1.0](https://img.shields.io/badge/version-0.1.0-blue)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Release](https://img.shields.io/github/v/release/calliarc/nextjs-seo-kit?include_prereleases&sort=semver)](https://github.com/calliarc/nextjs-seo-kit/releases)
+[![Built by CalliArc](https://img.shields.io/badge/built%20by-CalliArc-0a66c2)](https://www.calliarc.com/)
 
 > **Status:** v0.1.0, first release. The API may still change before 1.0. Feedback and issues are welcome.
 
@@ -303,6 +304,10 @@ Have an idea? [Open an issue](https://github.com/calliarc/nextjs-seo-kit/issues)
 ## Contributing
 
 Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+## Changelog
+
+See [CHANGELOG.md](CHANGELOG.md).
 
 ## License
 
