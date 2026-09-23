@@ -27,3 +27,7 @@ Thumbs.db
 .vscode/*
 !.vscode/extensions.json
 *.swp
+
+# Package tarballs and example lockfile (the example links the local build)
+*.tgz
+examples/*/package-lock.json
